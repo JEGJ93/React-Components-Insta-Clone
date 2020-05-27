@@ -47,4 +47,6 @@ const dummyData = [
     }
 ];
 
+// console.log(dummyData[1].comments[1].username);
+
 export default dummyData;
